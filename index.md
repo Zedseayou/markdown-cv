@@ -6,8 +6,8 @@ title: Calum You's CV
 Recent graduate seeking research experience in applied microeconomics
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="zedseayou@gmail.com">zedseayou@gmail.com</a>
+| <a href="https://www.linkedin.com/in/calum-you-00439253/">LinkedIn</a>
 </div>
 
 
@@ -27,12 +27,12 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`2014-2017`
+`Sep 2016 - Jun 2017`
 __Stanford University__
 
 - M.S. Civil and Environmental Engineering
 
-`2013-2017`
+`Sep 2013 - Jun 2017`
 __Stanford University__
 
 - B.A. Economics
